@@ -1,5 +1,1 @@
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelitonVougan&layout=compact)](https://github.com/KelitonVougan/github-readme-stats)
-
+![Keliton GitHub stats](https://github-readme-stats.vercel.app/api?KelitonVougan=anuraghazra&show_icons=true&theme=dark)
